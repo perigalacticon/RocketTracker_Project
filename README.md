@@ -28,3 +28,10 @@ SPI
 I got about 110m range maximum on flat ground but it started dropping out frequently around 100m.
 
 See the RocketTracker library for the python app with map GPS location plotting.
+
+<img width="3060" height="4080" alt="rocketTracker system" src="https://github.com/user-attachments/assets/ad0ab1bc-77eb-43b0-8c4f-222df3b43000" />
+
+<img width="806" height="818" alt="Brinston RocketTracker 7_30_26 test3" src="https://github.com/user-attachments/assets/38e56d55-f1c1-423b-9b61-d91562c17dc5" />
+
+
+
