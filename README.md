@@ -23,7 +23,7 @@ TinyGPS++,
 RadioHead/RH_ASK, 
 SPI
 
-I got about 110m range maximum on flat ground but it started dropping out frequently around 100m.
+I got about 110m range maximum on flat ground but it started dropping out frequently around 100m.  I am now going to try upgrading to a small ESP32 module and LORA radios, adding an accelerometer.
 
 See the RocketTracker library for the python app with map GPS location plotting.
 
