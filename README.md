@@ -1,11 +1,9 @@
 # RocketTracker_Project
 GPS + Radio coms project for locating model rockets.  Ongoing project files.  Currently developed for AVR Nano MCUs.
 
-https://github.com/perigalacticon/RocketTracker_Project/
-
 7/24/26 Status: Working at 1Hz transmission rate with help from radiohead-arduino google group, 
-RocketTracker GitHub project discussion page, Arduino forum Projects webpage, discussion 
-on https://www.rocketryforum.com/.  This version appears to have an issue which requires delays after the GPS commands to function correctly.  This version is for 2 std AVR nanos.
+https://groups.google.com/g/radiohead-arduino
+RocketTracker GitHub project https://github.com/AllanGallop/RocketTracker discussion page, Arduino forum Projects webpage, discussion on https://www.rocketryforum.com/.  This version appears to have an issue which requires delays after the GPS commands to function correctly.  This version is for 2 std AVR nanos.
 
 8/13/26 Status: This version does not have the delays after the GPS commands, stopping GPS listening during the radio broadcast solved the problem.
 
